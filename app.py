@@ -1,7 +1,5 @@
 
-restaurantes = [{"nome": "Badofe", "categoria": "fast-food", "ativo": False},
-                {"nome": "Majorica", "categoria": "Italiana", "ativo": True},
-                {"nome": "Sabor Mineiro", "categoria": "Brasileiro", "ativo": False}]
+restaurantes = []
 def exibir_nome_restaurante():
     print("""
 ░██████╗░█████╗░██████╗░░█████╗░██████╗░  ███████╗██╗░░██╗██████╗░██████╗░███████╗░██████╗░██████╗
